@@ -1,0 +1,25 @@
+p {
+   
+    font-size: 26px;
+    color: goldenrod
+}
+
+
+body {
+    background-color: black;
+    background-image: url();
+}
+
+title { 
+    color: goldenrod;
+}
+
+h1 {
+    color: goldenrod;
+
+}
+
+ul {
+    color: goldenrod;
+    font-size: 20px;
+}
